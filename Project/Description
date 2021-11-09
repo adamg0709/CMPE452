@@ -1,2 +1,2 @@
-This project aimed to classify chest X-ray images as healthy, pneumonia or COVID-19.
+This project aimed to classify chest X-ray images as healthy, virus-pneumonia or bacteria-pneumonia. The model uses the VGG-19 pre-trained model and transfer learning.
 Original task and dataset can be found at https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset
